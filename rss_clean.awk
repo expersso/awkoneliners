@@ -1,6 +1,6 @@
 #!/usr/bin/awk -f
 #
-# http://www.student.northpark.edu/pemente/awk/awk1line.txt
+# One liners due to http://www.student.northpark.edu/pemente/awk/awk1line.txt
 
 # Print boilerplate header
 BEGIN { FS="\n"; RS="\n\n"; ORS="\n\n"
